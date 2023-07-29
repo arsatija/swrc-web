@@ -1,0 +1,13 @@
+.HomeContainer {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    gap: 1;
+
+
+}
+
+.Sidebar {
+    height: 100%;
+    width: 10%;
+}
