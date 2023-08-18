@@ -1,0 +1,24 @@
+[08/16/23 18:12:44] Log: Log file open, 08/16/23 18:12:44
+[08/16/23 18:12:44] Map: CTF_Engine.ctm
+[08/16/23 18:12:44] GameMode: ModMPGame.TAGCTFGame
+[08/16/23 18:12:44] Team: 0 :  (0,RaV)
+[08/16/23 18:12:44] Team: 1 :  (1,sperglordreinstall90)
+[08/16/23 18:12:44] StartGame: Match is live
+[08/16/23 18:12:50] Name: 1 : sperglordreinstall90 -> ViraL
+[08/16/23 18:13:05] Kill: RaV ViraL spine3
+[08/16/23 18:13:05] Score: T_0 0.00
+[08/16/23 18:13:28] Flag: CTF_Engine.InGameTempName : flag_cap_final_5
+[08/16/23 18:13:28] Score: T_0 1.00
+[08/16/23 18:13:37] Kill: RaV ViraL Head
+[08/16/23 18:13:37] Score: T_0 1.00
+[08/16/23 18:13:48] Name: 0 : Player -> MACHIAVELLI
+[08/16/23 18:13:48] Kill: RaV ViraL Head
+[08/16/23 18:13:48] Score: T_0 1.00
+[08/16/23 18:14:20] Score: T_1 0.00
+[08/16/23 18:14:23] Flag: CTF_Engine.InGameTempName : flag_cap_final_5
+[08/16/23 18:14:23] Score: T_0 2.00
+[08/16/23 18:14:49] Score: T_1 0.00
+[08/16/23 18:14:49] Flag: CTF_Engine.InGameTempName : flag_ret_friendly_2
+[08/16/23 18:15:08] Flag: CTF_Engine.InGameTempName : flag_cap_final_5
+[08/16/23 18:15:08] Score: T_0 3.00
+[08/16/23 18:15:08] EndGame: teamscorelimit

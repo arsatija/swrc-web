@@ -1,0 +1,15 @@
+[08/16/23 22:57:04] Log: Log file open, 08/16/23 22:57:04
+[08/16/23 22:57:04] Map: CTF_Engine.ctm
+[08/16/23 22:57:04] GameMode: ModMPGame.TAGCTFGame
+[08/16/23 22:57:04] Team: team_list 0 :  (0,RaV)
+[08/16/23 22:57:04] Team: team_list 1 : 
+[08/16/23 22:57:04] StartGame: Match is live
+[08/16/23 22:57:06] Kill: 0 0 None 0.00
+[08/16/23 22:57:12] Leave: 0
+[08/16/23 22:57:12] Name: 0 Player RaV
+[08/16/23 22:57:12] Join: 0 RaV
+[08/16/23 22:57:17] Team: team_swap 0 0
+[08/16/23 22:57:17] Team: team_list 0 :  (0,RaV)
+[08/16/23 22:57:17] Team: team_list 1 : 
+[08/16/23 22:59:32] Leave: 0
+[08/16/23 22:59:47] Uninitialized: Log file closed, 08/16/23 22:59:47
