@@ -1,0 +1,19 @@
+[08/17/23 01:13:54] Log: Log file open, 08/17/23 01:13:54
+[08/17/23 01:13:54] Map: CTF_Engine.ctm
+[08/17/23 01:13:54] GameMode: ModMPGame.TAGCTFGame
+[08/17/23 01:13:54] Team: team_list 0 :  (0,Bot0) (0,Bot1) (0,Bot2) (0,Bot3) (0,Bot4)
+[08/17/23 01:13:54] Team: team_list 1 :  (0,RaV)
+[08/17/23 01:13:54] StartGame: Match is live
+[08/17/23 01:14:04] Kill: 0 0 head 1.00
+[08/17/23 01:14:09] Kill: 0 0 head 2.00
+[08/17/23 01:14:14] Kill: 0 0 None 3.00
+[08/17/23 01:14:19] Kill: 0 0 head 4.00
+[08/17/23 01:14:26] Kill: 0 0 spine3 5.00
+[08/17/23 01:14:33] Kill: 0 0 None 6.00
+[08/17/23 01:14:36] Kill: 0 0 spine3 7.00
+[08/17/23 01:14:45] Kill: 0 0 head 8.00
+[08/17/23 01:14:49] Kill: 0 0 spine2 9.00
+[08/17/23 01:14:54] Kill: 0 0 elbow_L 10.00
+[08/17/23 01:15:00] Kill: 0 0 head 11.00
+[08/17/23 01:15:14] Leave: 0
+[08/17/23 01:16:01] Uninitialized: Log file closed, 08/17/23 01:16:01
